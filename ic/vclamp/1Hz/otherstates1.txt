@@ -1,0 +1,1 @@
+Time CaSSavg CaJSRavg JRyRtot PRyR_open PRyR_ready PNorm_mode PnotVinact PLType_open CaToT2 PIto2_open CaJSRtot CaSStot 
